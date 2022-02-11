@@ -1,0 +1,4 @@
+https://www.nuget.org/packages/IBMMQDotnetClient
+
+https://www.ibm.com/docs/en/ibm-mq/9.2?topic=programs-example-c-code-fragment-use-net
+https://www.ibm.com/docs/en/ibm-mq/9.2?topic=roadmap-mq-downloads
