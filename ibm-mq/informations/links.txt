@@ -1,4 +1,8 @@
+# Описание пакета
 https://www.nuget.org/packages/IBMMQDotnetClient
 
+# Процесс установки тестового сервера MQ
+https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-containers/#step-2-get-the-mq-in-docker-image
+
+# Пример кода для разработки клиента
 https://www.ibm.com/docs/en/ibm-mq/9.2?topic=programs-example-c-code-fragment-use-net
-https://www.ibm.com/docs/en/ibm-mq/9.2?topic=roadmap-mq-downloads

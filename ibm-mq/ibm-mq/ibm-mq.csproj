@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="IBMMQDotnetClient" Version="9.2.4" />
+      <PackageReference Include="IBMMQDotnetClient" Version="9.2.1" />
     </ItemGroup>
 
 </Project>
